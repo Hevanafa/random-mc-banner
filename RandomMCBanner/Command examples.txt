@@ -1,0 +1,39 @@
+﻿{
+  "BlockEntityTag":{
+    "Patterns":[
+      {
+        "Pattern":"bs",
+        "Color":1
+      },
+      {
+        "Pattern":"vh",
+        "Color":0
+      }
+    ]
+  }
+}
+/give @p black_banner{BlockEntityTag:{Patterns:[{Pattern:"bs",Color:1},{Pattern:"vh",Color:0}]}} 1
+
+\"\\\"{content}\\\"\"
+
+{
+  "display":{
+    "Name":"\"Hu hah\"",
+    "Lore":[
+      "\"Wangy wangy\""
+    ]
+  },
+  "BlockEntityTag":{
+    "Patterns":[
+      {
+        "Pattern":"bs",
+        "Color":1
+      },
+      {
+        "Pattern":"bl",
+        "Color":0
+      }
+    ]
+  }
+}
+/give @p light_blue_banner{display:{Name:"\"Hu hah\"",Lore:["\"Wangy wangy\""]},BlockEntityTag:{Patterns:[{Pattern:"bs",Color:1},{Pattern:"bl",Color:0}]}} 1

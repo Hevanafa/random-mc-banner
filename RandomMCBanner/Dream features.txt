@@ -1,0 +1,19 @@
+Random Minecraft Banner Generator
+
+18-06-2021
+- Basic random pattern generator with depth
+- Display name & lore
+
+
+Dream Features
+- Static base colour
+- Copy command to clipboard
+- Use JSON serialiser instead of building the string manually
+- Better UI design
+- Pattern preview
+	- Save pattern to PNG
+- History of generated patterns
+- Favourite patterns
+- More Minecraft versions: 1.17 and the previous versions, and if possible, Bedrock edition too
+- About screen & donation link :3
+
