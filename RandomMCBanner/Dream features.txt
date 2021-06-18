@@ -6,14 +6,17 @@ Random Minecraft Banner Generator
 
 
 Dream Features
+- Better UI design
 - Static base colour
 - Copy command to clipboard
 - Use JSON serialiser instead of building the string manually
-- Better UI design
 - Pattern preview
 	- Save pattern to PNG
 - History of generated patterns
 - Favourite patterns
-- More Minecraft versions: 1.17 and the previous versions, and if possible, Bedrock edition too
+- How to use
 - About screen & donation link :3
 
+- More Minecraft versions: 1.17 and the previous versions, and if possible, Bedrock edition too
+- Skip duplicate pattern (all unique)
+- Skip duplicate colours
