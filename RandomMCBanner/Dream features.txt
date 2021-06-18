@@ -7,7 +7,7 @@ Random Minecraft Banner Generator
 
 Dream Features
 - Better UI design
-- Static base colour
+- Static banner base colour
 - Copy command to clipboard
 - Use JSON serialiser instead of building the string manually
 - Pattern preview
