@@ -13,10 +13,20 @@ Dream Features
 - Pattern preview
 	- Save pattern to PNG
 - History of generated patterns
-- Favourite patterns
-- How to use
+- Saved patterns (Changed from favourite patterns) screen
+	- Pattern preview
+	- Rename pattern
+	- Sort by: name, creation date, pattern count
+	- Filtration (Optional)
+
+- How to use screen
 - About screen & donation link :3
 
+- A button to change between creative/cheats or survival mode
+- Show the list of ingredients to use in survival mode
+
 - More Minecraft versions: 1.17 and the previous versions, and if possible, Bedrock edition too
+
+Optional features:
 - Skip duplicate pattern (all unique)
 - Skip duplicate colours
